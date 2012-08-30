@@ -1,0 +1,1 @@
+[{"page":"home.asp","allow":["friends","admin"]},{"page":"admin.asp","allow":["admin"]},{"page":"s.asp","allow":["admin"]}]

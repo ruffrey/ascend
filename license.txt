@@ -1,0 +1,13 @@
+jQuery
+	jQuery.org
+Bootstrap
+	Code licensed under the Apache License v2.0. Documentation licensed under CC BY 3.0.
+	Icons from Glyphicons Free, licensed under CC BY 3.0.
+	http://twitter.github.com/bootstrap/
+JSON2
+	http://www.JSON.org/
+
+Ascend Framework
+	MIT license
+	(c) Jeff Parrish
+	github.com/ruffrey
