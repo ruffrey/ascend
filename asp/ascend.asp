@@ -10,9 +10,11 @@
 	 * Examples:
 	 * 		- a global user object
 	 * 		- connection strings
+	 *
+	 *
+	 *	<!--#include virtual="somefile.asp"-->
 	 */
 %>
-		<!--#include virtual="/custrelat/includes/jsconn.asp"-->
 
 <%
 	/* Next, the Ascend Framework is loaded. */
